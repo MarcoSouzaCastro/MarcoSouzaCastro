@@ -1,28 +1,21 @@
-console.log ("Hola mundo") 🌎<br/>
+console.log ("Hola mundo") 🌎
 Un poco sobre mi:<br/>
-📌Estudié System Analysis and Development, Information Technology…<br/>
-📌Trabajé con supply chain por un tiempo...<br/>
-📌Hace tres años decidí mudarme a España y hacer un reinicio completo. <br/>
-📌 Con la llegada de la pandemia, sentí que necesita explorar nuevos caminos, y fue así como poco a poco me fui introduciendo y aprendiendo sobre el mundo de la programación.<br/>
-<br/>
-Mi energía, compromiso y dedicación me han permitido crecer de forma autodidacta, luego sentí que era momento de estudiar y profundizar mis conocimientos.
-Es realmente apasionante ver cómo algo que nació como un hobby se va convirtiendo en una realidad que acaba superando cualquier expectativa. 
-Me encuentro muy feliz de haber comenzado a andar por este nuevo camino. 
-¡Ponerte a estudiar y que las horas vuelen es nuevo para mí... y la verdad quiero decirles que es hermoso!
-Soy una persona muy curiosa, perfeccionista, siempre me gusta ir aprendiendo algo nuevo, soy proactivo y pongo mi corazón y compromiso en toda mi vida y proyectos profesionales.<br/>
-<br/>
-🙋🏻‍♂️ Realicé el Curso de Desarrollo Web en ProgramadorBR. <br/>
-Prácticas del desarrollo web, HTML 5, CSS 3, JAVASCRIPT. <br/>
-Herramientas para optimizar un sitio web. Implementación de prácticas de versionado de código con GIT, y preprocesadores como SASS. Uso de Bootstrap.<br/>
-<br/>
-💪🏻 Estoy Realizando el Bootcamp de Carrefour Web Developer en Digital Innovation One Inc.<br/>
-<br/>
-📌 Comenzando React. <br/>
+📌Estudié Análisis y Desarrollo de Sistemas en la facultad…y antes hizo F. P. I en Sistemas Microinformáticos y Redes. <br/>
+📌Trabajo con TI hace más de diez años...<br/>
+📌 Estoy constantemente buscando nuevas formas de mejorar mis habilidades y ampliar mi conocimiento.<br/>
+
+🙋🏻‍♂️ En febrero de 2022 completé el Curso de Desarrollo Web en ProgramadorBR. <br/>
+Dónde pude aprender: Prácticas del desarrollo web, HTML, CSS, JAVASCRIPT. Implementación de prácticas de versionado de código con GIT, y preprocesadores como SASS. Uso de Bootstrap.<br/>
+
+🏛️ En abril de 2022 completé el Bootcamp de Carrefour Web Developer. <br/>
+
+
 
 🌎 En constante aprendizaje del mundo digital. <br/>
-💻 Apasionada por las redes sociales.<br/>
+💻 Apasionado por las redes sociales.<br/>
 📖 Investigando el mundo mobile.<br/>
-✔Buscando una primera oportunidad.<br/>
+Contacto: ✉️marcocastroes@outlook.com<br/>
+Mi Github: https://github.com/marcosouzacastro<br/>
 <br/>
 <div align="center">
   <a href="https://github.com/MarcoSouzaCastro">
