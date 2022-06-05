@@ -1,21 +1,33 @@
-console.log ("Hola mundo") 🌎
+console.log ("Hola mundo") 🌎<br/>
 Un poco sobre mi:<br/>
-📌Estudié Análisis y Desarrollo de Sistemas en la facultad…y antes hizo F. P. I en Sistemas Microinformáticos y Redes. <br/>
+📌Estudié Análisis y Desarrollo de Sistemas en la facultad.<br/>
 📌Trabajo con TI hace más de diez años...<br/>
 📌 Estoy constantemente buscando nuevas formas de mejorar mis habilidades y ampliar mi conocimiento.<br/>
 
-🙋🏻‍♂️ En febrero de 2022 completé el Curso de Desarrollo Web en ProgramadorBR. <br/>
-Dónde pude aprender: Prácticas del desarrollo web, HTML, CSS, JAVASCRIPT. Implementación de prácticas de versionado de código con GIT, y preprocesadores como SASS. Uso de Bootstrap.<br/>
+🙋🏻‍♂️ En febrero de 2022 completé el Curso de Desarrollo Web. <br/>
+Dónde pude aprender: HTML, CSS, JAVASCRIPT, PHP, SQL, Implementación de prácticas de versionado de código con GIT, preprocesadores como SASS y el uso de Bootstrap. 
+Empecé a trabajar como Freelancer y conseguí mis dos primeros clientes.<br/>
 
-🏛️ En abril de 2022 completé el Bootcamp de Carrefour Web Developer. <br/>
+🏛️ En abril de 2022 completé el Bootcamp Desarrollador web Carrefour cuyo enfoque principal fue la formación en las tecnologías Javascript, ReactJS, JAVA y Springboot.
+https://www.dio.me/certificate/5723B74A
+
+💻 En Mayo completé el curso de Udemy de Desarrollo Web con Spring Boot.<br/>
+ Curso que me despertó un gran interés por el backend 😍<br/>
+
+📖 Ahora en junio empezaré mi segundo Bootcamp esta vez con la beca del banco Santander.<br/>
+ Donde el foco estará en aprender sobre Java y Angular.<br/>
 
 
+🛠 Tecnologías que estoy mejorando Conocimiento:<br/>
+JAVA<br/>
+SpringBoot<br/>
+ANGULAR<br/>
+SQL (MYSQL)<br/>
 
-🌎 En constante aprendizaje del mundo digital. <br/>
-💻 Apasionado por las redes sociales.<br/>
-📖 Investigando el mundo mobile.<br/>
+🌎 En constante aprendizaje del mundo digital. 
+
 Contacto: ✉️marcocastroes@outlook.com<br/>
-Mi Github: https://github.com/marcosouzacastro<br/>
+Mi Github: https://github.com/marcosouzacastro
 <br/>
 <div align="center">
   <a href="https://github.com/MarcoSouzaCastro">
